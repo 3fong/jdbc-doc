@@ -1,0 +1,12 @@
+为什么使用工厂类,
+工厂类的管理
+
+如何实现自己的jdbc
+
+driver
+register driver
+pre
+
+SPI
+
+Class.forName
